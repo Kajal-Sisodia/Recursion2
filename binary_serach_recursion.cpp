@@ -1,5 +1,5 @@
 //binary search
-#include<stdio.h>
+
 int Binary_search(int arr,int s,int e,int key)
 {
     int mid = (s+e)/2;
